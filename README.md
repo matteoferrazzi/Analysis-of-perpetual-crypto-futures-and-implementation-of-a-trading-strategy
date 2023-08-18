@@ -1,0 +1,1 @@
+# Analysis-of-perpetual-crypto-futures-and-implementation-of-a-trading-strategy
