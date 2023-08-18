@@ -1,1 +1,2 @@
 # Analysis-of-perpetual-crypto-futures-and-implementation-of-a-trading-strategy
+Analysis of the main properties of perpetual linear and inverse crypto futures both from a more general perspective and from a more technical one trying to describe the cashflows of these contracts in a proper way. Implementation of a trading strategy designed to exploit the discrepancy between spot exchange rates and perpetual exchange rates
